@@ -1,30 +1,24 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+# Grafos 2 - Exercícios
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2
+**Conteúdo da Disciplina**: Grafos 2
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2016767  |  Lucas Felipe Soares |
+| 19/0033681 | Luiz Henrique Fernandes Zamprogno |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de grafos. Exercícios Executados:
+
+### Exércicios executados
+
+| Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
+| -- | -- | -- | -- | -- |
+| [LINK]() | Dificil | [lINK]() | Python3 | [lINK]() |
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
