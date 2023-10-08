@@ -14,9 +14,6 @@
 A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de grafos. Exercícios Executados:
 
 
-|2203-Subgráfico Mínimo Ponderado com os Caminhos Necessários]
-(https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)  | Dificil | [LINK]() | JavaScript| [Resolução]() |
-
 ### Exércicios executados
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
