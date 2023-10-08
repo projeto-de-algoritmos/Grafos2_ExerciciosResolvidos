@@ -17,7 +17,7 @@ A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de A
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [LINK]() | Dificil | [lINK]() | Python3 | [lINK]() |
+| [LINK]() | Dificil | [LINK]() | Python3 | [LINK]() |
 
 
 ## Screenshots
@@ -29,7 +29,19 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+1. Acesse o site [LeetCode](https://leetcode.com/problemset/all/).
+
+2. Crie uma conta e faça o login.
+
+3. Vá para o link do exercício desejado, que pode ser encontrado na coluna "Id LeetCode" da tabela de exercícios executados.
+
+4. Selecione a linguagem de programação correspondente ao exercício, indicada na coluna "Linguagem" da tabela de exercícios executados.
+
+5. Copie o código correspondente encontrado na coluna "Código" da tabela de exercícios executados.
+
+6. Clique no botão "Enviar" no canto inferior direito e verifique a execução correta do código.
+
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
