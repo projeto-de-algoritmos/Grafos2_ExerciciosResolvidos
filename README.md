@@ -17,16 +17,24 @@ A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de A
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [LINK]() | Dificil | [LINK]() | Python3 | [LINK]() |
+| [2203-Subgráfico Mínimo Ponderado com os Caminhos Necessários
+](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | Dificil | [LINK]() | JavaScript| [Resolução]() |
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### 2203 - SubGrafo Mínimo Ponderado com os caminhos necessários
+
+![2203](tentativa2203.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+Não é necessario instalação, os exercicios devem ser rodados no site [leetcode]([link](https://leetcode.com/problemset/all/)).
+
+**Linguagem 1**: Python3<br>
+**Linguagem 2**: Javascript<br>
+
+
 
 ## Uso 
 
@@ -44,7 +52,7 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+As questões foram implementadas em duas linguagens diferentes para explorar a aplicação de conhecimentos em linguagens distintas.
 
 
 
