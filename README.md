@@ -30,7 +30,7 @@ A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de A
 ## Video
 
 YouTube: [video](https://youtu.be/uQTGUCsqMXw)
-Arquivo: [video]([https://youtu.be/uQTGUCsqMXw](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/video.mp4))
+Arquivo: [video](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/video.mp4)
 
 ## Screenshots
 
