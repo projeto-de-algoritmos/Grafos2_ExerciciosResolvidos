@@ -23,6 +23,7 @@ A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de A
 |[1489 - Encontre arestas críticas e pseudocríticas na árvore de abrangência mínima](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/arestasCriticas.pdf)|Díficil|[1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|JavaScript|[Resolução](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/1489arestasCriticas.js)|
 |[685 - Conexão Redundante II](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/685ConexaoRedundanteII.pdf)|Díficil|[685](https://leetcode.com/problems/redundant-connection-ii/description/)|Python3|[Resolução](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/685ConexaoRedundanteII.py)|
 |[1334 - Encontre a cidade com o menor número de vizinhos a uma distância limite](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/1334NumeroVizinhosdistanciaLimite.pdf)|Díficil|[1334](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)|Python3|[Resolução](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/1334NumeroVizinhosdistanciaLimite.py)|
+|[743 - Tempo de atraso da rede](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/743TempoAtrasoRede.pdf)|Díficil|[1334](https://leetcode.com/problems/network-delay-time/description/)|Python3|[Resolução](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/743TempoAtrasoRede.py)|
 
 
 ## Screenshots
@@ -46,6 +47,10 @@ A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de A
 ### 1334 - Encontre a cidade com o menor número de vizinhos a uma distância limite
 
 ![1334](1334NumeroVizinhosdistanciaLimite.PNG)
+
+### 743 - Tempo de atraso da rede
+
+![743](743TempoAtrasoRede.PNG)
 
 
 ## Instalação 
