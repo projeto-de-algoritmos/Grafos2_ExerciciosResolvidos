@@ -26,6 +26,12 @@ A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de A
 |[743 - Tempo de atraso da rede](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/743TempoAtrasoRede.pdf)|Díficil|[1334](https://leetcode.com/problems/network-delay-time/description/)|Python3|[Resolução](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/743TempoAtrasoRede.py)|
 
 
+
+## Video
+
+YouTube: [video](https://youtu.be/uQTGUCsqMXw)
+Arquivo: [video]([https://youtu.be/uQTGUCsqMXw](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosResolvidos/blob/master/video.mp4))
+
 ## Screenshots
 
 ### 2203 - SubGrafo Mínimo Ponderado com os caminhos necessários
