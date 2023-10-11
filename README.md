@@ -41,11 +41,11 @@ A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de A
 
 ### 685 Conexão Redundante II
 
-![685](685ConexaoRedundanteII.png)
+![685](685ConexaoRedundanteII.PNG)
 
 ### 1334 - Encontre a cidade com o menor número de vizinhos a uma distância limite
 
-![1334](1334NumeroVizinhosdistanciaLimite.png)
+![1334](1334NumeroVizinhosdistanciaLimite.PNG)
 
 
 ## Instalação 
