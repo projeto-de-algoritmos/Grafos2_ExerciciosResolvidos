@@ -3,6 +3,7 @@
 
 **Número da Lista**: 2
 **Conteúdo da Disciplina**: Grafos 2
+**Dupla:** 5
 
 ## Alunos
 |Matrícula | Aluno |
