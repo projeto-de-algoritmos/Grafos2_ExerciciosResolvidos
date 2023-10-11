@@ -2,7 +2,9 @@
 # Grafos 2 - Exercícios
 
 **Número da Lista**: 2
+
 **Conteúdo da Disciplina**: Grafos 2
+
 **Dupla:** 5
 
 ## Alunos
@@ -12,7 +14,7 @@
 | 19/0033681 | Luiz Henrique Fernandes Zamprogno |
 
 ## Sobre 
-A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de grafos. Exercícios Executados:
+A aplicação dos conceitos de Grafos 2 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de 6 exercícios sobre o assunto de grafos. Exercícios Executados:
 
 
 ### Exércicios executados
